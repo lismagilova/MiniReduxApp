@@ -1,0 +1,1 @@
+{"name":"mini-redux-app","version":"1.0.0","private":true,"type":"module","scripts":{"dev":"node server.js","build":"vite build","preview":"node server.js --preview","test":"node --test"},"devDependencies":{"vite":"^7.0.0"}}
